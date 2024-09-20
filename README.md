@@ -1,6 +1,6 @@
 # Differentiable Largest Connected Component (LCC) Layer
 
-Official implementation of the ICANN 2024 paper Differentiable Largest Connected Component Layer for Image Matting. 
+Official implementation of the ICANN 2024 paper [Differentiable Largest Connected Component Layer for Image Matting](https://link.springer.com/chapter/10.1007/978-3-031-72332-2_27). 
 
 <p align="middle">
     <img src="illustration.png">
